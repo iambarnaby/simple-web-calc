@@ -1,2 +1,2 @@
 # simple-web-calc
-Simple calculator application. (requires react)
+Simple calculator application. React
